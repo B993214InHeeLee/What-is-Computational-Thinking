@@ -14,7 +14,7 @@
 ```
 
 컴퓨팅 사고 관련 영상자료
-![컴퓨팅 사고 관련 영상자료](https://www.youtube.com/watch?v=cDA3_5982h8&list=PLfA_D-b2uIbCNmZtDvbObWPwkj_o5XVc7&index=4)
+[컴퓨팅 사고 관련 영상자료](https://www.youtube.com/watch?v=cDA3_5982h8&list=PLfA_D-b2uIbCNmZtDvbObWPwkj_o5XVc7&index=4)
 
 ### 컴퓨팅 사고란?
 : 특별한 **사고패턴과 절차**를 사용해서 문제를 찾아내고 해결하거나 컴퓨팅을 위한 프로그램을 **고안**하는 것
