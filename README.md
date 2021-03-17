@@ -13,7 +13,6 @@
 4. 잼을 바른다
 ```
 
-컴퓨팅 사고 관련 영상자료
 [컴퓨팅 사고 관련 영상자료](https://www.youtube.com/watch?v=cDA3_5982h8&list=PLfA_D-b2uIbCNmZtDvbObWPwkj_o5XVc7&index=4)
 
 ### 컴퓨팅 사고란?
