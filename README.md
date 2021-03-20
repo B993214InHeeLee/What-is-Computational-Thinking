@@ -1,6 +1,8 @@
 # What-is-Computational-Thinking
 컴퓨팅 사고에 대해 정리한 글입니다.
 
+* [GitHub 링크는 여기](https://github.com/B993214InHeeLee/What-is-Computational-Thinking)
+
 
 ## 컴퓨팅 사고
 
